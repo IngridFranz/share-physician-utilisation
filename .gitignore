@@ -1,0 +1,24 @@
+# Restricted data
+data/*.dta
+data/*.csv
+data/*.xlsx
+
+# Generated results, figures, and logs
+results/*
+figures/*
+logs/*
+
+# Retain empty directory placeholders
+!results/.gitkeep
+!figures/.gitkeep
+!logs/.gitkeep
+
+# Stata temporary and backup files
+*.tmp
+*.bak
+*.smcl
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+

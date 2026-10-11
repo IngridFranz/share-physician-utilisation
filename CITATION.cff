@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived code release and the accompanying article."
+title: "Replication code for horizontal inequity in specialist and GP utilisation"
+type: software
+author:
+  - family-name: "Franz"
+    given-name: "Ingrid"
+    affiliation: "University of Education, Freiburg, Germany"
+    orcid: "https://orcid.org/0009-0003-7345-023X"
+version: 1.0.0
+date-released: "2026-10-11"
+license: MIT
+
+repository-code: "https://github.com/IngridFranz/share-physician-utilisation"

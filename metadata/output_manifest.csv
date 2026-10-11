@@ -1,0 +1,11 @@
+output,created_by,description
+"results/equity_results.xlsx,02_main_analysis.do,""Pooled summary indices, regression estimates, AMEs, decomposition results, and samples"""
+"results/hi_bootstrap.xlsx,03_bootstrap_specialist_hi.do,""Specialist-use HI estimates and bootstrap uncertainty"""
+"results/hi_fdr.xlsx,04_fdr_adjustment.do,""Benjamini-Hochberg and Bonferroni adjustments"""
+"results/no_rural_sensitivity.xlsx,05_sensitivity_no_rural.do,""Fixed- and expanded-sample no-rural sensitivity estimates"""
+"results/sampling_design_audit.xlsx,06_sampling_design_audit.do,""Country-level availability of strata and PSU information"""
+"results/gp_decomposition.xlsx,07_gp_decomposition_outputs.do,""Secondary GP-use decomposition outputs"""
+"figures/run_*/Figure1_physician_utilisation.pdf,08_figures.do,""Weighted proportions reporting specialist and GP use"""
+"figures/run_*/Figure2_specialist_equity.pdf,08_figures.do,""Observed ECI, need-expected ECI, and specialist-use HI"""
+"figures/run_*/Figure3_decomposition_specialist.pdf,08_figures.do,""Composition of observed specialist-use inequality"""
+"logs/replication_run.log,00_master.do,""Complete Stata execution log, including automated output verification"""
